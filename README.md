@@ -1,6 +1,6 @@
-# Vue.js Bootsrap Slider plugin for NUXT
-[![npm](https://img.shields.io/npm/dt/nuxt-bootstrap-slider.svg?style=flat-square)](https://www.npmjs.com/package/nuxt-rfg-icon)
-[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-bootstrap-slider/latest.svg?style=flat-square)](https://www.npmjs.com/package/nuxt-rfg-icon)
+# Vue.js Bootstrap Slider plugin for NUXT
+[![npm](https://img.shields.io/npm/dt/nuxt-bootstrap-slider.svg?style=flat-square)](https://www.npmjs.com/package/nuxt-bootstrap-slider)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/nuxt-bootstrap-slider/latest.svg?style=flat-square)](https://www.npmjs.com/package/nuxt-bootstrap-slider)
 
 > Easily use [Vue.js Bootstrap Slider](https://github.com/pimlie/vue-bootstrap-slider) in your Nuxt app
 
