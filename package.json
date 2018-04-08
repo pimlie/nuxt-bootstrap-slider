@@ -2,7 +2,7 @@
   "name": "nuxt-bootstrap-slider",
   "version": "0.1.2",
   "license": "MIT",
-  "description": "nuxt module for creating favicons through RealFaviconGenerator",
+  "description": "Nuxt module for adding vue-bootstrap-slider to your nuxt project",
   "repository": "https://github.com/pimlie/nuxt-bootstrap-slider",
   "homepage": "https://github.com/pimlie/nuxt-bootstrap-slider",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "vue-bootstrap-slider": "^1.1.0"
+    "vue-bootstrap-slider": "^1.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",
