@@ -1,6 +1,6 @@
 {
   "name": "nuxt-bootstrap-slider",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "description": "Nuxt module for adding vue-bootstrap-slider to your nuxt project",
   "repository": "https://github.com/pimlie/nuxt-bootstrap-slider",
